@@ -12,5 +12,6 @@ public class HelloCointroller {
         System.out.println("hello master");
         System.out.println("hello hot-fix");
         System.out.println("hello push1");
+        System.out.println("hello pull1");
     }
 }
